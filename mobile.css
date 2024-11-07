@@ -1,6 +1,7 @@
 @media screen and (max-width: 800px){
     .paragraph{
         font-size: 13px;
+        padding: 0;
     }
     .container{
         width: 75%;
@@ -15,6 +16,9 @@
     }
     .circle2{
         width: 15%;
+    }
+    .body{
+        height: 100vh;
     }
     
 }
