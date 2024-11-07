@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Noto Sans Lao Looped
+- Font Author: undefined
+- Font Source: https://fonts.gstatic.com/s/notosanslaolooped/v7/a8IgNpbwKmHXpgXbMIsbSMP7-3U72qUOX5gBg6LRXExhqHIX9YPTpvqkW4UthhjomPr3M-Zw5V_T71k.ttf
+- Font License: undefined)
