@@ -1,0 +1,20 @@
+@media screen and (max-width: 800px){
+    .paragraph{
+        font-size: 13px;
+    }
+    .container{
+        width: 75%;
+    }
+    .icons{
+        font-size: 13px;
+        padding-top: 20px;
+        /* height: 60px; */
+    }
+    .circle1{
+        width: 15%;
+    }
+    .circle2{
+        width: 15%;
+    }
+    
+}
